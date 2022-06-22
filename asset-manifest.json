@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dishes-form/static/css/main.3c9657e0.css",
-    "main.js": "/dishes-form/static/js/main.e0d5f608.js",
-    "static/js/787.c8f5d257.chunk.js": "/dishes-form/static/js/787.c8f5d257.chunk.js",
-    "index.html": "/dishes-form/index.html",
-    "main.3c9657e0.css.map": "/dishes-form/static/css/main.3c9657e0.css.map",
-    "main.e0d5f608.js.map": "/dishes-form/static/js/main.e0d5f608.js.map",
-    "787.c8f5d257.chunk.js.map": "/dishes-form/static/js/787.c8f5d257.chunk.js.map"
+    "main.css": "/dishes-form-v1/static/css/main.3c9657e0.css",
+    "main.js": "/dishes-form-v1/static/js/main.a13f987f.js",
+    "static/js/787.c8f5d257.chunk.js": "/dishes-form-v1/static/js/787.c8f5d257.chunk.js",
+    "index.html": "/dishes-form-v1/index.html",
+    "main.3c9657e0.css.map": "/dishes-form-v1/static/css/main.3c9657e0.css.map",
+    "main.a13f987f.js.map": "/dishes-form-v1/static/js/main.a13f987f.js.map",
+    "787.c8f5d257.chunk.js.map": "/dishes-form-v1/static/js/787.c8f5d257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c9657e0.css",
-    "static/js/main.e0d5f608.js"
+    "static/js/main.a13f987f.js"
   ]
 }
